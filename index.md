@@ -5,3 +5,8 @@
 ```javascript
 console.log('hello sample code markdown');
 ```
+- [x] Add a tittle
+- [x] Add an image
+- [x] Add code example
+- [x] Add a tasklist
+- [ ] upcoming changes
